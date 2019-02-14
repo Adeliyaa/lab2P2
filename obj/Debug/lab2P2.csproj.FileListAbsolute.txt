@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\lab2P2\lab2P2\bin\Debug\lab2P2.exe.config
+C:\Users\delya\source\repos\lab2P2\lab2P2\bin\Debug\lab2P2.exe
+C:\Users\delya\source\repos\lab2P2\lab2P2\bin\Debug\lab2P2.pdb
+C:\Users\delya\source\repos\lab2P2\lab2P2\obj\Debug\lab2P2.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\lab2P2\lab2P2\obj\Debug\lab2P2.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\lab2P2\lab2P2\obj\Debug\lab2P2.exe
+C:\Users\delya\source\repos\lab2P2\lab2P2\obj\Debug\lab2P2.pdb
